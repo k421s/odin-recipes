@@ -2,3 +2,8 @@
     width: 600px;
     height: auto;
 }
+
+.main-image-tall{
+    width: auto; 
+    height: 600px;
+}
